@@ -1,0 +1,95 @@
+{
+  "DMR": {
+    "role": "admin",
+    "password": "admin"
+  },
+  "Aibek": {
+    "role": "student",
+    "password": "123123",
+    "courses": [
+      {
+        "name": "math",
+        "mark": 100,
+        "attendance": 100,
+        "isfree": true
+      }
+    ]
+  },
+  "Moldir": {
+    "role": "teacher",
+    "password": "math",
+    "courses": [
+      {
+        "name": "math",
+        "mark": 0,
+        "attendance": 0,
+        "isfree": true
+      },
+      {
+        "name": "The Probability and Statistics",
+        "mark": 0,
+        "attendance": 0,
+        "isfree": true,
+        "limit": 500
+      }
+    ],
+    "rate": [
+      100,
+      40,
+      100
+    ]
+  },
+  "Damir": {
+    "role": "student",
+    "password": "172",
+    "courses": []
+  },
+  "Yerassyl": {
+    "role": "teacher",
+    "password": "KTL",
+    "courses": [],
+    "rate": []
+  },
+  "Aruzhan": {
+    "role": "student",
+    "password": "011308",
+    "courses": [
+      {
+        "name": "The Probability and Statistics",
+        "mark": 0,
+        "attendance": 0,
+        "isfree": true,
+        "limit": 500
+      }
+    ]
+  },
+  "Syndar": {
+    "role": "teacher",
+    "password": "Calculus",
+    "courses": [],
+    "rate": []
+  },
+  "Darkhan": {
+    "role": "teacher",
+    "password": "Python",
+    "courses": [],
+    "rate": []
+  },
+  "Xenia": {
+    "role": "student",
+    "password": "123123",
+    "courses": []
+  },
+  "asdada": {
+    "role": "student",
+    "password": "123123",
+    "courses": [
+      {
+        "name": "Math",
+        "mark": 100,
+        "attendance": 100,
+        "isfree": false
+      }
+    ]
+  }
+}

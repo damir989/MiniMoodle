@@ -1,0 +1,25 @@
+{
+  "math": {
+    "mark": 0,
+    "attendance": 0,
+    "isfree": true,
+    "limit": 10
+  },
+  "calculus": {
+    "mark": 0,
+    "attendance": 0,
+    "isfree": true,
+    "limit": 10
+  },
+  "The Probability and Statistics": {
+    "mark": 0,
+    "attendance": 0,
+    "isfree": true,
+    "limit": 500
+  },
+  "Math": {
+    "mark": 0,
+    "attendance": 0,
+    "isfree": false
+  }
+}
